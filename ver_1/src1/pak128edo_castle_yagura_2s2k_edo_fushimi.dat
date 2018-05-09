@@ -1,0 +1,16 @@
+Obj=building
+Name=pak128edo_castle_yagura_2s2k_edo_fushimi
+intro_year=1600
+NoInfo=1
+level=1
+waytype=water
+type=extension
+enable_pax=1
+needs_ground=1
+icon=> icon_yagura1.0.2
+cursor=pak128edo_castle_yagura_2s2k_edo_fushimi.0.0
+dims=1,1,4
+BackImage[0][0][0][0][0][0]=pak128edo_castle_yagura_2s2k_edo_fushimi.0.0
+BackImage[1][0][0][0][0][0]=pak128edo_castle_yagura_2s2k_edo_fushimi.0.1
+BackImage[2][0][0][0][0][0]=pak128edo_castle_yagura_2s2k_edo_fushimi.1.0
+BackImage[3][0][0][0][0][0]=pak128edo_castle_yagura_2s2k_edo_fushimi.1.1

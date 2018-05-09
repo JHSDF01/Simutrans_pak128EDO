@@ -1,0 +1,16 @@
+obj=building
+Name=pak128edo_castle_fence_corner
+intro_year=1600
+NoInfo=1
+level=1
+waytype=water
+type=extension
+needs_ground=1
+icon=> icon_fence.0.1
+cursor=pak128edo_castle_fence_corner.0.0
+
+dims=1,1,4
+BackImage[0][0][0][0][0][0]=pak128edo_castle_fence_corner.0.0
+BackImage[1][0][0][0][0][0]=pak128edo_castle_fence_corner.0.1
+BackImage[2][0][0][0][0][0]=pak128edo_castle_fence_corner.1.0
+BackImage[3][0][0][0][0][0]=pak128edo_castle_fence_corner.1.1

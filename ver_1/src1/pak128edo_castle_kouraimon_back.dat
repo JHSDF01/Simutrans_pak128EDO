@@ -1,0 +1,18 @@
+obj=building
+Name=pak128edo_castle_kouraimon_bacl
+intro_year=1600
+NoInfo=1
+level=1
+waytype=road
+type=stop
+enables_post=1
+enable_pax=1
+needs_ground=1
+icon=> icon_fence.0.2
+cursor=pak128edo_castle_kouraimon_back.0.0
+
+dims=1,1,2
+BackImage[0][0][0][0][0][0]=pak128edo_castle_kouraimon_back.0.0
+FrontImage[0][0][0][0][0][0]=pak128edo_castle_kouraimon_back.0.1
+BackImage[1][0][0][0][0][0]=pak128edo_castle_kouraimon_back.1.0
+FrontImage[1][0][0][0][0][0]=pak128edo_castle_kouraimon_back.1.1
