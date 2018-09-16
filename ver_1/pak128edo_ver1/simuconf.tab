@@ -260,7 +260,7 @@ way_max_bridge_len = 4095
 #
 # other recommended vaule for 64 is 1956
 #
-starting_year = 1960
+starting_year = 1850
 
 ##################################forest stuff#################################
 #  please be careful in changing them, I spent lot of time finding optimals.
@@ -306,7 +306,7 @@ intercity_road_length = 10000
 
 # Type of initial intercity roads - must be available
 # as PAK file. Fallback (if PAK is not found) is "asphalt_road"
-intercity_road[0] = pak128edo_road, 1, 1950
+intercity_road[0] = pak128edo_road, 1, 1930
 intercity_road[1] = douro030, 1930, 2999
 
 
@@ -314,7 +314,7 @@ intercity_road[1] = douro030, 1930, 2999
 # order is random
 # format is besch_name[,into_year[,retire_year]]
 # if intro or retire is not given, the default dates from the pak is used
-city_road[0] = pak128edo_city_road, 1,1950
+city_road[0] = pak128edo_city_road, 1,1930
 city_road[1] = city_road, 1930, 2999
 
 
