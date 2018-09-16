@@ -1,0 +1,47 @@
+Obj=factory
+name=pak128edo_teichiami
+copyright=JHSDF
+Location=Water
+
+#needed productivity in tones  : 170 (? ship / month)
+#size                          : 3x2 = 6
+#average productivity per tile : 14
+
+intro_year=300
+#retire_year=1900
+
+
+DistributionWeight=2
+Productivity=10
+Range=1
+pax_level=0
+
+#need entry for stations
+enables_ware=1
+
+OutputGood[0]=fishA13
+OutputCapacity[0]=200
+
+MapColor=134
+Dims=1,1,2
+
+animation_time=100
+
+BackImage[0][0][0][0][0]=pak128edo_teichiami1.4.0
+BackImage[0][0][0][0][1]=pak128edo_teichiami1.4.1
+BackImage[0][0][0][0][2]=pak128edo_teichiami1.4.2
+BackImage[0][0][0][0][3]=pak128edo_teichiami1.4.3
+BackImage[0][0][0][0][4]=pak128edo_teichiami1.3.0
+BackImage[0][0][0][0][5]=pak128edo_teichiami1.3.1
+BackImage[0][0][0][0][6]=pak128edo_teichiami1.3.2
+
+BackImage[1][0][0][0][0]=pak128edo_teichiami1.3.3
+BackImage[1][0][0][0][1]=pak128edo_teichiami1.2.0
+BackImage[1][0][0][0][2]=pak128edo_teichiami1.2.1
+BackImage[1][0][0][0][3]=pak128edo_teichiami1.2.2
+BackImage[1][0][0][0][4]=pak128edo_teichiami1.2.3
+BackImage[1][0][0][0][5]=pak128edo_teichiami1.1.0
+BackImage[1][0][0][0][6]=pak128edo_teichiami1.1.1
+
+
+# EOF

@@ -1,0 +1,46 @@
+#
+#0 独立貨物種
+#1 ばら積み貨物
+#2 小口混載貨物　単位は個（1個は100kg目安）
+#3 パレット輸送貨物　単位はパレット（1パレット1000kg目安、T11パレット使用を想定）
+#4 国鉄／JRコンテナ貨物　単位は個（T11パレット6枚分、12フィートコンテナを想定）
+#5 ISOコンテナ貨物　単位は個（T11パレット10枚分、20フィートコンテナを想定）
+#6 小荷物　単位は個（1個は100kg目安、鉄道荷物車を使用したいがために設けたカテゴリー）
+#7 石油類
+#8 長物貨物
+#11 加工食品　単位はクレート
+#12 加工食品（冷蔵品）　単位はクレート
+#13 魚類　単位はトン
+#
+#
+#
+#
+#
+#
+#
+
+-----------------------
+obj=good
+name=tea_leaves3
+metric=paletten
+catg=3
+value=90
+speed_bonus=3
+weight_per_unit=800
+-----------------------
+obj=good
+name=greentea2
+metric=ko
+catg=2
+value=9
+speed_bonus=3
+weight_per_unit=80
+-----------------------
+obj=good
+name=greentea3
+metric=paletten
+catg=3
+value=90
+speed_bonus=3
+weight_per_unit=80
+-----------------------
